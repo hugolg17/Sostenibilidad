@@ -16,5 +16,5 @@ Referencias
 Autores
 
 
-[Introducción](introduccion.md)
+[Introducción](introducción.md)
 [Referencias](referencias.md)
